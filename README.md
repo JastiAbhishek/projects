@@ -1,5 +1,3 @@
 # PROJECTS
 
 Name: Abhishek Jasti
-
-
