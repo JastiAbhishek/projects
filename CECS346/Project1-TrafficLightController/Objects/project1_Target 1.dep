@@ -1,0 +1,5 @@
+Dependencies for Project 'project1', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\startup.s)(0x61290B62)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Users\abhis\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 535" --pd "TM4C123GH6PM SETA 1"--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
+F (.\CECS346Project1.c)(0x615FE035)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Users\abhis\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="535" -DTM4C123GH6PM-o .\objects\cecs346project1.o --omf_browse .\objects\cecs346project1.crf --depend .\objects\cecs346project1.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025F66E)

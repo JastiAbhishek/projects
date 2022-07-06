@@ -1,0 +1,5 @@
+n m m f m
+i n n m n
+n m n n i
+m n m m n
+m n m n s
